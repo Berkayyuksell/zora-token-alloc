@@ -1,20 +1,33 @@
 {
   "pages": {
-    "/layout": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/layout.css",
-      "static/chunks/app/layout.js"
-    ],
-    "/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/page.js"
+    "/_not-found/page": [
+      "static/chunks/webpack-e2c83d3e6630c7b6.js",
+      "static/chunks/0937d497-ebf4b8908c4f03da.js",
+      "static/chunks/572-600fa2c82652ce66.js",
+      "static/chunks/main-app-208a7d25569c87b7.js",
+      "static/chunks/app/_not-found/page-3a3856ffd8d7275c.js"
     ],
     "/api/zora/route": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/api/zora/route.js"
+      "static/chunks/webpack-e2c83d3e6630c7b6.js",
+      "static/chunks/0937d497-ebf4b8908c4f03da.js",
+      "static/chunks/572-600fa2c82652ce66.js",
+      "static/chunks/main-app-208a7d25569c87b7.js",
+      "static/chunks/app/api/zora/route-cb4904239e0084f4.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-e2c83d3e6630c7b6.js",
+      "static/chunks/0937d497-ebf4b8908c4f03da.js",
+      "static/chunks/572-600fa2c82652ce66.js",
+      "static/chunks/main-app-208a7d25569c87b7.js",
+      "static/css/28196b2db45feb54.css",
+      "static/chunks/app/layout-cf8ec94d4d9793a8.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-e2c83d3e6630c7b6.js",
+      "static/chunks/0937d497-ebf4b8908c4f03da.js",
+      "static/chunks/572-600fa2c82652ce66.js",
+      "static/chunks/main-app-208a7d25569c87b7.js",
+      "static/chunks/app/page-14c660643cf229a8.js"
     ]
   }
 }
