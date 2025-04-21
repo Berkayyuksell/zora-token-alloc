@@ -192,11 +192,11 @@ export default function HomePage() {
     <div className='container'>
       <main className='main'>
         <h1 className='title'>
-          Zora Token Bakiye Sorgulama (TypeScript)
+          Zora Token Airdrop
         </h1>
 
         <p className='description'>
-          Cüzdan adresinizi girerek Zora ağında kazandığınız toplam token miktarını sorgulayın.
+          Cüzdan adresinizi giriniz
         </p>
 
         <div className='input-group'>
